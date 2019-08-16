@@ -5,4 +5,4 @@ def index(request):
 
 
 def  contact(request):
-    return render(request, 'mainApp/basic.html', {'contact': ['если остальсь вопросы пишите нам','38003']})
+    return render(request, 'mainApp/basic.html', {'contact': ['если остальсь вопросы пишите нам',38003]})
